@@ -4,7 +4,7 @@
 
 # Class Contract
 
-* Your final grade = 0.2 * `Assignment grade` + 0.3 * `Mid-test grade` + 0.5 * `Final-test grade`
+* Your `Final grade` = 0.2 * `Assignment grade` + 0.3 * `Mid-test grade` + 0.5 * `Final-test grade`
 
     Suppose I give you `3 assignments`, you do only `two` of them, and you get `60` and `90` for each of them.
     Your `assignment grade` will be `(60 + 90)/3 = 50`.
@@ -15,24 +15,24 @@
 
     According to this rule:
 
-```python
-grade = 38
+    ```python
+    grade = 38
 
-if grade >= 80:
-    print("Mark: A, Pass")
-elif grade >= 75:
-    print("Mark: B+, Pass")
-elif grade >= 70:
-    print("Mark: B, Pass")
-elif grade >= 65:
-    print("Mark: C+, Pass")
-elif grade >= 56:
-    print("Mark: C, Pass")
-elif grade >= 45:
-    print("Mark: D, Fail")
-else:
-    print("Mark: E, Fail")
-```
+    if grade >= 80:
+        print("Mark: A, Pass")
+    elif grade >= 75:
+        print("Mark: B+, Pass")
+    elif grade >= 70:
+        print("Mark: B, Pass")
+    elif grade >= 65:
+        print("Mark: C+, Pass")
+    elif grade >= 56:
+        print("Mark: C, Pass")
+    elif grade >= 45:
+        print("Mark: D, Fail")
+    else:
+        print("Mark: E, Fail")
+    ```
 
     You get `E`, and you are `Fail`
 
