@@ -56,4 +56,4 @@ The materials here are just outlines. Attending the class is recommended.
 
 # Workshop Materials
 
-* [Kivy](http://nbviewer.ipython.org/github/goFrendiAsgard/kuliah/tree/master/kivy/kivy.ipynb)
+* [Kivy](http://nbviewer.ipython.org/github/goFrendiAsgard/kuliah/tree/master/kivy_workshop/kivy.ipynb)
