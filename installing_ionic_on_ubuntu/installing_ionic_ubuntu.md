@@ -158,7 +158,7 @@ Those packages are necessary to build or emulate android application.
 
 * `ionic start todo blank`
 * `cd todo`
-* `ionic platform add todo`
+* `ionic platform add android`
 * `ionic build android`
 * `ionic serve`
 * `ionic emulate android`
