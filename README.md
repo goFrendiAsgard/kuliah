@@ -49,7 +49,7 @@ The materials here are just outlines. Attending the class is recommended.
 * [Basic Programming II (Pemrograman Dasar II)](http://nbviewer.ipython.org/github/goFrendiAsgard/kuliah/tree/master/pd2/pd2.ipynb)
 * [Graphics Programming (Pemrograman Grafis)](http://nbviewer.ipython.org/github/goFrendiAsgard/kuliah/tree/master/pemrograman_grafis/pemrograman_grafis.ipynb)
 * [Web Programming (Pemrograman Web)](http://nbviewer.ipython.org/github/goFrendiAsgard/kuliah/tree/master/pemrograman_web/pemrograman_web.ipynb)   
-* [Advance Programming (Pemrograman Web)](http://nbviewer.ipython.org/github/goFrendiAsgard/kuliah/tree/master/pemrograman_web_lanjut/pemrograman_web_lanjut.ipynb)   
+* [Advance Web Programming (Pemrograman Web Lanjut)](http://nbviewer.ipython.org/github/goFrendiAsgard/kuliah/tree/master/pemrograman_web_lanjut/pemrograman_web_lanjut.ipynb)   
 * [Algorithm Design Technique (Strategi Algoritma)](http://nbviewer.ipython.org/github/goFrendiAsgard/kuliah/tree/master/strategi_algoritma/strategi_algoritma.ipynb)
 * [Artificial Intelligence (Kecerdasan Buatan)](http://nbviewer.ipython.org/github/goFrendiAsgard/kuliah/tree/master/kecerdasan_buatan/kecerdasan_buatan.ipynb)
 * [Information Retrieval (Sistem Temu Kembali Informasi)](http://nbviewer.ipython.org/github/goFrendiAsgard/kuliah/tree/master/information_retrieval/information_retrieval.ipynb)
