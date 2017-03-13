@@ -1,0 +1,283 @@
+#+SEQ_TODO: TODO IN-PROGRESS | DONE
+
+* DONE Sosialisasi Skripsi
+CLOSED: [2017-03-06 Mon 07:58] SCHEDULED: <2017-03-03 Fri 14:00-15:00>
+
+* DONE Pelatihan Penulisan Jurnal
+CLOSED: [2017-03-06 Mon 07:57] SCHEDULED: <2017-03-04 Sat 09:00-15:00>
+
+* Strategi Algoritma, Kelas A, Ruang A.1.1
+** DONE 1. Strategi Algoritma Kelas A
+CLOSED: [2017-03-01 Wed 16:18] SCHEDULED: <2017-02-28 Tue 10:30-13:00>
+
+** DONE 2. Strategi Algoritma Kelas A
+CLOSED: [2017-03-07 Tue 11:55] SCHEDULED: <2017-03-07 Tue 10:30-13:00>
+
+** TODO 3. Strategi Algoritma Kelas A
+SCHEDULED: <2017-03-14 Tue 10:30-13:00>
+
+** TODO 4. Strategi Algoritma Kelas A
+SCHEDULED: <2017-03-21 Tue 10:30-13:00>
+
+** TODO 5. Strategi Algoritma Kelas A
+SCHEDULED: <2017-03-28 Tue 10:30-13:00>
+
+** TODO 6. Strategi Algoritma Kelas A
+SCHEDULED: <2017-04-04 Tue 10:30-13:00>
+
+** TODO 7. Strategi Algoritma Kelas A
+SCHEDULED: <2017-04-11 Tue 10:30-13:00>
+
+** TODO 8. Strategi Algoritma Kelas A
+SCHEDULED: <2017-04-18 Tue 10:30-13:00>
+
+** TODO 9. Strategi Algoritma Kelas A
+SCHEDULED: <2017-04-25 Tue 10:30-13:00>
+
+** TODO 10. Strategi Algoritma Kelas A
+SCHEDULED: <2017-05-02 Tue 10:30-13:00>
+
+** TODO 11. Strategi Algoritma Kelas A
+SCHEDULED: <2017-05-09 Tue 10:30-13:00>
+
+** TODO 12. Strategi Algoritma Kelas A
+SCHEDULED: <2017-05-16 Tue 10:30-13:00>
+
+** TODO 13 Strategi Algoritma Kelas A
+SCHEDULED: <2017-05-23 Tue 10:30-13:00>
+
+** TODO 14 Strategi Algoritma Kelas A
+SCHEDULED: <2017-05-30 Tue 10:30-13:00>
+
+* Strategi Algoritma, Kelas B, Ruang A.1.1
+** DONE 1. Strategi Algoritma Kelas B
+CLOSED: [2017-03-01 Wed 16:19] SCHEDULED: <2017-02-27 Mon 10:30-13:00>
+- Note taken on [2017-02-27 Mon 13:29] \\
+  Pengenalan strategi algoritma. Contoh kasus: dynamic programming untuk masalah deret fibonacci
+
+** DONE 2. Strategi Algoritma Kelas B
+CLOSED: [2017-03-06 Mon 18:53] SCHEDULED: <2017-03-06 Mon 10:30-13:00>
+
+** TODO 3. Strategi Algoritma Kelas B
+SCHEDULED: <2017-03-13 Mon 10:30-13:00>
+
+** TODO 4. Strategi Algoritma Kelas B
+SCHEDULED: <2017-03-20 Mon 10:30-13:00>
+
+** TODO 5. Strategi Algoritma Kelas B
+SCHEDULED: <2017-03-27 Mon 10:30-13:00>
+
+** TODO 6. Strategi Algoritma Kelas B
+SCHEDULED: <2017-04-03 Mon 10:30-13:00>
+
+** TODO 7. Strategi Algoritma Kelas B
+SCHEDULED: <2017-04-10 Mon 10:30-13:00>
+
+** TODO 8. Strategi Algoritma Kelas B
+SCHEDULED: <2017-04-17 Mon 10:30-13:00>
+
+** TODO 9. Strategi Algoritma Kelas B
+SCHEDULED: <2017-04-24 Mon 10:30-13:00>
+
+** TODO 10. Strategi Algoritma Kelas B
+SCHEDULED: <2017-05-01 Mon 10:30-13:00>
+
+** TODO 11. Strategi Algoritma Kelas B
+SCHEDULED: <2017-05-08 Mon 10:30-13:00>
+
+** TODO 12. Strategi Algoritma Kelas B
+SCHEDULED: <2017-05-15 Mon 10:30-13:00>
+
+** TODO 13. Strategi Algoritma Kelas B
+SCHEDULED: <2017-05-22 Mon 10:30-13:00>
+
+** TODO 14. Strategi Algoritma Kelas B
+SCHEDULED: <2017-05-29 Mon 10:30-13:00>
+
+* Pemrograman Grafis, Kelas A, Ruang A.1.2
+** DONE 1. Pemrograman Grafis Kelas A
+CLOSED: [2017-03-01 Wed 16:20] SCHEDULED: <2017-02-27 Mon 14:40-17:10>
+- Note taken on [2017-02-27 Mon 17:31] \\
+  Warna & Koordinat
+
+** DONE 2. Pemrograman Grafis Kelas A
+CLOSED: [2017-03-06 Mon 18:53] SCHEDULED: <2017-03-06 Mon 14:40-17:10>
+
+** TODO 3. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-03-13 Mon 14:40-17:10>
+
+** TODO 4. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-03-20 Mon 14:40-17:10>
+
+** TODO 5. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-03-27 Mon 14:40-17:10>
+
+** TODO 6. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-04-03 Mon 14:40-17:10>
+
+** TODO 7. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-04-10 Mon 14:40-17:10>
+
+** TODO 8. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-04-17 Mon 14:40-17:10>
+
+** TODO 9. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-04-24 Mon 14:40-17:10>
+
+** TODO 10. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-05-01 Mon 14:40-17:10>
+
+** TODO 11. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-05-08 Mon 14:40-17:10>
+
+** TODO 12. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-05-15 Mon 14:40-17:10>
+
+** TODO 13. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-05-22 Mon 14:40-17:10>
+
+** TODO 14. Pemrograman Grafis Kelas A
+SCHEDULED: <2017-05-29 Mon 14:40-17:10>
+
+* Pemrograman Grafis, Kelas B, Ruang A.1.5
+** DONE 1. Pemrograman Grafis Kelas B
+CLOSED: [2017-03-03 Fri 09:41] SCHEDULED: <2017-03-03 Fri 08:00-10:30>
+
+** DONE 2. Pemrograman Grafis Kelas B
+CLOSED: [2017-03-10 Fri 12:25] SCHEDULED: <2017-03-10 Fri 08:00-10:30>
+
+** TODO 3. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-03-17 Fri 08:00-10:30>
+
+** TODO 4. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-03-24 Fri 08:00-10:30>
+
+** TODO 5. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-03-31 Fri 08:00-10:30>
+
+** TODO 6. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-04-07 Fri 08:00-10:30>
+
+** TODO 7. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-04-14 Fri 08:00-10:30>
+
+** TODO 8. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-04-21 Fri 08:00-10:30>
+
+** TODO 9. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-04-28 Fri 08:00-10:30>
+
+** TODO 10. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-05-05 Fri 08:00-10:30>
+
+** TODO 11. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-05-12 Fri 08:00-10:30>
+
+** TODO 12. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-05-19 Fri 08:00-10:30>
+
+** TODO 13. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-05-26 Fri 08:00-10:30>
+
+** TODO 14. Pemrograman Grafis Kelas B
+SCHEDULED: <2017-06-02 Fri 08:00-10:30>
+
+* Pemrograman Grafis, Kelas C, Ruang A.2.1
+** DONE 1. Pemrograman Grafis Kelas C
+CLOSED: [2017-03-01 Wed 16:20] SCHEDULED: <2017-03-01 Wed 10:30-13:00>
+
+** DONE 2. Pemrograman Grafis Kelas C
+CLOSED: [2017-03-08 Wed 14:02] SCHEDULED: <2017-03-08 Wed 10:30-13:00>
+
+** TODO 3. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-03-15 Wed 10:30-13:00>
+
+** TODO 4. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-03-22 Wed 10:30-13:00>
+
+** TODO 5. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-03-29 Wed 10:30-13:00>
+
+** TODO 6. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-04-05 Wed 10:30-13:00>
+
+** TODO 7. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-04-12 Wed 10:30-13:00>
+
+** TODO 8. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-04-19 Wed 10:30-13:00>
+
+** TODO 9. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-04-26 Wed 10:30-13:00>
+
+** TODO 10. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-05-03 Wed 10:30-13:00>
+
+** TODO 11. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-05-10 Wed 10:30-13:00>
+
+** TODO 12. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-05-17 Wed 10:30-13:00>
+
+** TODO 13. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-05-24 Wed 10:30-13:00>
+
+** TODO 14. Pemrograman Grafis Kelas C
+SCHEDULED: <2017-05-31 Wed 10:30-13:00>
+
+* Pemrograman Grafis, Kelas Profesional, A 1.5
+** DONE 1. Pemrograman Grafis Kelas Profesional
+CLOSED: [2017-03-06 Mon 07:57] SCHEDULED: <2017-03-04 Sat 15:00-17:00>
+
+** DONE 2. Pemrograman Grafis Kelas Profesional
+CLOSED: [2017-03-11 Mon 07:42] SCHEDULED: <2017-03-11 Sat 15:00-17:00>
+
+** TODO 3. Pemrograman Grafis Kelas Profesional
+SCHEDULED: <2017-03-18 Sat 15:00-17:00>
+
+** TODO 4. Pemrograman Grafis Kelas Profesional
+SCHEDULED: <2017-03-25 Sat 15:00-17:00>
+
+** TODO 5. Pemrograman Grafis Kelas Profesional
+SCHEDULED: <2017-04-01 Sat 15:00-17:00>
+
+** TODO 6. Pemrograman Grafis Kelas Profesional
+SCHEDULED: <2017-04-08 Sat 15:00-17:00>
+
+** TODO 7. Pemrograman Grafis Kelas Profesional
+SCHEDULED: <2017-04-15 Sat 15:00-17:00>
+
+** TODO 8. Pemrograman Grafis Kelas Profesional
+SCHEDULED: <2017-04-22 Sat 15:00-17:00>
+
+** TODO 9. Pemrograman Grafis Kelas Profesional
+SCHEDULED: <2017-04-29 Sat 15:00-17:00>
+
+** TODO 10. Pemrograman Grafis Kelas Profesional
+SCHEDULED: <2017-05-06 Sat 15:00-17:00>
+
+** TODO 11. Pemrograman Grafis Kelas Profesional
+SCHEDULED: <2017-05-13 Sat 15:00-17:00>
+
+** TODO 12. Pemrograman Grafis Kelas Profesional
+SCHEDULED: <2017-05-20 Sat 15:00-17:00>
+
+* Praktikum Grafis, Kelas Profesional, Lab C
+** TODO 1. Praktikum Grafis Kelas Profesional
+SCHEDULED: <2017-04-27 Thu 19:00-20:30>
+
+** TODO 2. Praktikum Grafis Kelas Profesional
+SCHEDULED: <2017-05-04 Thu 19:00-20:30>
+
+** TODO 3. Praktikum Grafis Kelas Profesional
+SCHEDULED: <2017-05-11 Thu 19:00-20:30>
+
+** TODO 4. Praktikum Grafis Kelas Profesional
+SCHEDULED: <2017-05-18 Thu 19:00-20:30>
+
+** TODO 5. Praktikum Grafis Kelas Profesional
+SCHEDULED: <2017-05-25 Thu 19:00-20:30>
+
+** TODO 6. Praktikum Grafis Kelas Profesional
+SCHEDULED: <2017-06-01 Thu 19:00-20:30>
+

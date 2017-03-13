@@ -1,0 +1,40 @@
+#+SEQ_TODO: TODO IN-PROGRESS | DONE
+* Materi
+** Java Open GL
+** Sistem Koordinat
+*** x --> kanan positif
+*** y --> atas positif
+*** z --> luar positif
+** Warna
+*** RGB
+**** blacK = (0,0,0)
+**** white = (1,1,1)
+**** Red = (1,0,0)
+**** Green = (0,1,0)
+**** Blue = (0,0,1)
+**** Cyan = green + blue = (0,1,1)
+**** Magenta = red + blue
+**** Yellow = red + green
+**** pink = (red + white)/2 = (1, 0.5, 0.5)
+*** CMYK
+** Obyek sederhana
+*** Garis, titik, segi-empat, segi-banyak, segi-tiga
+gl.glBegin(GL_LINES); // GL_LINES, GL_POINTS, GL_QUADS, GL_POLYGON, GL_TRIANGLES
+gl.glColor3d(1,0,0); // R, G, B
+gl.glVertex3d(0,0,0); // X, Y, Z
+gl.glVertex3d(1,1,0); // X, Y, Z
+gl.glEnd();
+*** Lingkaran
+**** 360 derajat = 2 pi radian
+**** y = sin(alpha) * r
+**** x = cos(alpha) * r
+** Obyek kompleks 
+** Transformasi
+*** Translasi
+*** Rotasi
+** Animasi
+** Push & Pop Matrix
+** Kamera
+* Kendala
+** DONE Lapor ke puskom/baa, proyektor A 2.1 dan A 1.1
+CLOSED: [2017-03-06 Mon 18:54] DEADLINE: <2017-03-03 Fri>

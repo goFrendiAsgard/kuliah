@@ -1,0 +1,25 @@
+#+SEQ_TODO: TODO IN-PROGRESS | DONE
+* Brute force
+** Mencoba semua kemungkinan
+** Menemukan satu/beberapa solusi terbaik
+** Contoh kasus:
+*** Reality show
+** Tugas:
+*** Kombinasi angka
+** Kelebihan
+*** Mudah dimengerti
+*** Solusi terbaik (jika ada) pasti ditemukan
+** Kelemahan
+*** Lambat jika jumlah kemungkinan besar
+** Kaitan dengan kehidupan sehari-hari
+*** Password 
+**** Berapa lama sekali anda harus mengganti password?
+**** Lebih bagus mana?
+***** password yang panjang namun hanya mengandung huruf kecil
+***** password yang pendek namun mengandung karakter yang variatif
+* Greedy
+* Divide & Conquer
+* Decrease & Conquer
+* Backtracking
+* Branch & Bound
+* Dynamic Programming

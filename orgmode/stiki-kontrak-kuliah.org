@@ -1,0 +1,48 @@
+* Kehadiran
+** tidak masuk maksimal 3x
+** tidak mempengaruhi nilai
+* Keterlambatan
+** tetap boleh masuk dan absen
+** kemungkinan tidak bisa mengumpulkan tugas
+** kehilangan materi
+* Penilaian & Kontak Mahasiswa
+** Bobot
+*** Pemrograman Grafis Kelas A
+****  0.2 * tugas + 0.3 * uts + 0.5 * uas
+****  Alfon 08124631312
+*** Pemrograman Grafis Kelas C 
+****  0.2 * tugas + 0.3 * uts + 0.5 * uas
+****  Febri 081944913391
+*** Pemrograman Grafis Kelas B
+****  0.2 * tugas + 0.3 * uts + 0.5 * uas
+****  Galih 085604044550
+*** Strategi Algoritma Kelas B
+****  0.2 * tugas + 0.3 * uts + 0.5 * uas
+**** Rafi 081805116861
+*** Strategi Algoritma Kelas A
+**** 0.2 * tugas + 0.3 * uts + 0.5 * uas
+**** Ganis 081931564284
+*** Pemrograman Grafis Kelas Profesional
+**** 0.2 * tugas + 0.3 * uts + 0.5 * uas
+**** Eko Triono 085755686977
+** UAS: boleh ikut sekalipun ada masalah keuangan
+** UTS: multiple choice
+** Tugas: on-site (di kelas)
+* Boleh bawa makan/minum
+* Boleh buka HP
+* Metode mengajar
+** Teori
+** Demo
+** Tugas <-- implementasi teori untuk kasus yg berbeda
+* Materi kuliah
+** http://github.com/goFrendiAsgard/kuliah
+* Kontak dosen
+** email: frendi@stiki.ac.id
+** no hp (SMS/WA): 089680868343
+* Bahasa pemrograman
+** Java
+** Python
+** PHP
+** etc
+* Progress Report 4 minggu terakhir
+** Jika diikuti, ikut UTS dan UAS, nilai minimal C
