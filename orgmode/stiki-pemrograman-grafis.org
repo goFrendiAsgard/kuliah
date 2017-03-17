@@ -1,7 +1,7 @@
 #+SEQ_TODO: TODO IN-PROGRESS | DONE
 * Materi
 ** Java Open GL
-** Sistem Koordinat
+** Sistem Koordinat (x,y,z)
 *** x --> kanan positif
 *** y --> atas positif
 *** z --> luar positif
@@ -25,10 +25,24 @@ gl.glVertex3d(0,0,0); // X, Y, Z
 gl.glVertex3d(1,1,0); // X, Y, Z
 gl.glEnd();
 *** Lingkaran
+gl.glBegin(GL_POLYGON);
+gl.glColor3d(0,1,0); // warna
+for(int sudut=0; sudut < 360; sudut++){
+    double radian = Math.PI/180 * sudut;
+    double x = Math.cos(radian) * 1; // r = 1
+    double y = Math.sin(radian) * 1;
+    gl.glVertex3d(x,y,0);
+}
+gl.glEnd();
 **** 360 derajat = 2 pi radian
 **** y = sin(alpha) * r
 **** x = cos(alpha) * r
 ** Obyek kompleks 
+GLU glu = new GLU();
+GLUquadric q = glu.gluNewQuadric();
+
+glu.gluSphere(q, 1, 20, 20); // quadric, radius, slices, stacks
+glu.gluCylinder(q, 0, 1, 2, 20, 20); // quadric, base, top, slices, stacks
 ** Transformasi
 *** Translasi
 *** Rotasi

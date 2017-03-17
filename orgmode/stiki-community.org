@@ -1,0 +1,28 @@
+* Arduino
+** DONE Buat Group WA untuk komunitas arduino
+CLOSED: [2017-03-14 Tue 12:18] SCHEDULED: <2017-03-14 Tue>
+** Anggota komunitas arduino
+*** 131110676 Ricardus Stefanus Deru 081333255203
+*** 131110680 Yonathan Apriyanto 081335643860
+*** 131110703 Said 081238938040
+*** 131110671 Marthin Pattikawa 081216556167
+*** 121110593 Adhitya Indra Arkhadian 085785311222 
+** Kegiatan Arduino
+*** DONE Yonathan & Deru. Dipinjami arduino, disuruh bikin sinyal SOS
+CLOSED: [2017-03-09 Thu]
+*** TODO Pengenalan arduino, penyelesaian case bersama
+SCHEDULED: <2017-03-16 Thu 13:00>
+**** SOS
+**** Basic Electronics
+***** Apa itu beda potensial / tegangan / volt?
+***** Apa itu arus listrik?
+***** Apa itu muatan listrik?
+***** Apa itu hambatan listrik?
+**** SOS Signal + push button
+* Komunitas Competitive Programming
+** Kegiatan Competitive Programming
+*** TODO First time
+SCHEDULED: <2017-03-16 Thu 15:30>
+**** CodeFight
+**** Project Euler
+* Komunitas IR (P Mukhlis & P Rahmad)

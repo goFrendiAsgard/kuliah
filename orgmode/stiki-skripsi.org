@@ -1,0 +1,29 @@
+* Research
+** Starting from Problem
+** Systematic
+* Research Element
+** Perencanaan
+*** Pemilihan Topik
+*** Inspiration
+**** Conference
+***** Look for "Conference Ranking"
+**** Journal
+***** sci-hub
+**** Edited and peer reviewed book chapters
+** Literatur
+** Metode Penelitian
+** Analisis Data
+** Penulisan Skripsi
+* Beware
+** Metpen, bukan Metode pengembangan Softwar
+* Current Trend
+** Healthcare
+** Security
+** Big data
+* Contribution
+** Domain
+*** Interesting case
+**** There are tweets
+**** Classify by several dimension (emotion, etc)
+**** Create a structured "table"
+** Algorithm

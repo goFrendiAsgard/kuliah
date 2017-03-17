@@ -1,0 +1,16 @@
+* SJR
+** http://www.scimagojr.com/journalrank.php
+** http://www.scimagojr.com/journalsearch.php?q=24254&tip=sid&clean=0
+* Interesting
+** https://www.cambridge.org/core/journals/journal-of-functional-programming
+* inderscience
+* irmj
+:PROPERTIES:
+:CREATED:  [2017-03-04 Sat 14:12]
+:END:
+
+* fp, oop, etc <-- bidang apa
+:PROPERTIES:
+:CREATED:  [2017-03-04 Sat 14:23]
+:END:
+

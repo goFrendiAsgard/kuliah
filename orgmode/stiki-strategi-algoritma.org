@@ -18,8 +18,24 @@
 ***** password yang panjang namun hanya mengandung huruf kecil
 ***** password yang pendek namun mengandung karakter yang variatif
 * Greedy
+** Mencoba hanya kemungkinan yang tampak paling baik saja
+** Contoh kasus
+*** Reality show
+** Kelebihan
+*** Cepat
+*** Hemat memory
+** Kelemahan
+*** Belum tentu menemukan solusi terbaik
+*** Bisa jadi solusi sama sekali tidak ditemukan
+** Kaitan dengan kehidupan sehari-hari
+*** Memakai greedy jika: 
+**** Penggunaaan brute-force tidak dimungkinkan
+***** Cost terlalu tinggi untuk mencoba semua kemungkinan
+***** Dibutuhkan solusi sesegera mungkin dalam waktu yang pendek
 * Divide & Conquer
 * Decrease & Conquer
 * Backtracking
 * Branch & Bound
 * Dynamic Programming
+* Grup arduino
+https://chat.whatsapp.com/F0a9RJVmKJO22FR0MNeaEE
