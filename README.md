@@ -1,3 +1,5 @@
+__NOTE__ This repository is no longer maintained. Please use [this one](https://github.com/goFrendiAsgard/kuliah-2.0) instead
+
 # About The Document
 
 * You can use this document as long as you cite it as original's author (Go Frendi Gunawan) work.
